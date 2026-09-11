@@ -20,7 +20,7 @@ body{
 }
 
 body::before, body::after{
-    /* Crai os efeitos de luz no fundo da página */
+    /* Cria os efeitos de luz no fundo da página */
     content: '';
     position: absolute;
     width: 300px;
@@ -28,4 +28,9 @@ body::before, body::after{
     border-radius: 50%;
     filter: blur(100px);
     z-index: 0;
+}
+
+body::before{
+    /* Posiciona a luz azul */
+    background: #dc2626;
 }
