@@ -41,4 +41,5 @@ body::after{
     /* Posiciona a luz azul */
     background: #2563eb;
     bottom: 20%;
+    right: 25%;
 }
