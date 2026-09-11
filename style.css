@@ -43,3 +43,8 @@ body::after{
     bottom: 20%;
     right: 25%;
 }
+
+.card{
+    /* Estiliza o cartão principal*/
+    position: relative;
+}
