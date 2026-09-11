@@ -22,4 +22,5 @@ body{
 body::before, body::after{
     /* Crai os efeitos de luz no fundo da página */
     content: '';
+    position: absolute;
 }
