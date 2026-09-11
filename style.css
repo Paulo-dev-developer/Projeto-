@@ -58,4 +58,5 @@ body::after{
     width: 90%;
     text-align: center;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
