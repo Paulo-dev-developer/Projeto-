@@ -31,8 +31,14 @@ body::before, body::after{
 }
 
 body::before{
-    /* Posiciona a luz azul */
+    /* Posiciona a luz vermelha */
     background: #dc2626;
     top: 20%;
     left: 25%;
+}
+
+body::after{
+    /* Posiciona a luz azul */
+    background: #2563eb;
+    
 }
