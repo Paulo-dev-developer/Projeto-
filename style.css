@@ -47,4 +47,5 @@ body::after{
 .card{
     /* Estiliza o cartão principal*/
     position: relative;
+    z-index: 1;
 }
