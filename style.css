@@ -61,3 +61,8 @@ body::after{
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+.card:hover{
+    /* Efeito ao passar o mouse no cartão */
+    transform: translateY(-5px);
+    border-color: rgba(255, 255, 255, 0.25);
+}
