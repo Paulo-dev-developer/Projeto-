@@ -1,0 +1,53 @@
+[33mcommit 40b28062571fb257697e082d318a246002d1c9a6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 19:20:20 2026 -0300
+
+    coloquei um min-height
+
+[33mcommit 14a683f6fe124ac9922954e85d2fc49e01fbe2b2[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 19:04:31 2026 -0300
+
+    coloquei um color
+
+[33mcommit 4fd92e63336557ef1450ed3edaf5063fee698eaf[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 19:03:08 2026 -0300
+
+    coloquei um background
+
+[33mcommit f04b11aa6d4adf35ab4bf3006a6213a19bd08bfe[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 19:01:18 2026 -0300
+
+    coloquei um font-family
+
+[33mcommit f4d4a784889e7d5b4458a19b8814183e499dd2b5[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 19:00:03 2026 -0300
+
+    coloquei um boc-sizing
+
+[33mcommit 5598633664b4f12013df905d9a22b164aab1b7d5[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 18:58:54 2026 -0300
+
+    coloquei um padding
+
+[33mcommit eb9f683364084fcd48b67d3dbf2aca618d26d94f[m
+Author: Kauã Podenciano <kauapodenciano0@gmail.com>
+Date:   Wed Sep 2 18:54:16 2026 -0300
+
+    coloquei um margin
+
+[33mcommit 464d0933f0d4ef1e04d3b1898f40df3e44970796[m
+Author: Your Name <you@example.com>
+Date:   Wed Aug 26 19:13:46 2026 -0300
+
+    Adicionei o Main
+
+[33mcommit e30948c75f14c8ee8a13fb73e0a53b922e7422c4[m
+Author: Your Name <you@example.com>
+Date:   Wed Aug 26 18:51:09 2026 -0300
+
+    Adicionei um titulo
