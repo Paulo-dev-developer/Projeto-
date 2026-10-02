@@ -107,3 +107,9 @@ body::after{
     /*acabei*/
 }
 
+.info-card:hover{
+    /* Efeito ao passar o mouse no cartão de informação */
+    transform: translateY(-5px);
+    border-color: rgb(92, 1, 153) ;
+}
+
