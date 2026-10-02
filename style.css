@@ -75,5 +75,26 @@ body::after{
     max-width: 1000px;
     text-align: center;
 }
+.conteudo h2{
+    /* Estiliza o título do cartão */
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #f8fafc;
+}
 
+.informacoes{
+    /* Estiliza as informações dentro do cartão */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* Cria um espaçamento entre as colunas */
+    gap: 20px;
+}
+
+.info-card{
+    /* Estiliza cada cartão de informação */
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+
+   
+}
 
