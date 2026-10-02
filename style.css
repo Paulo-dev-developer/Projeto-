@@ -99,6 +99,10 @@ body::after{
     border-radius: 18px;
     /* Adiciona um espaçamento interno ao cartão de informação */
     padding: 20px;
+    /*alinha o texto à esquerda dentro do cartão de informação */
+    text-align: left;
     
+
+    /*acabei*/
 }
 
