@@ -101,7 +101,8 @@ body::after{
     padding: 20px;
     /*alinha o texto à esquerda dentro do cartão de informação */
     text-align: left;
-    
+    /*adciona uma transição suave ao passar o mouse sobre o cartão de informação */
+    transition: 0.03s ease;
 
     /*acabei*/
 }
