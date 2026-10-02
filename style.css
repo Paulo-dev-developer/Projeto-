@@ -75,12 +75,6 @@ body::after{
     max-width: 1000px;
     text-align: center;
 }
-.conteudo h2{
-    /* Estiliza o título do cartão */
-    font-size: 2rem;
-    margin-bottom: 30px;
-    color: #f8fafc;
-}
 
 
 
