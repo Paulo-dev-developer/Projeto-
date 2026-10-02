@@ -97,6 +97,8 @@ body::after{
 
     /*arredondamento dos cantos do cartão de informação */
     border-radius: 18px;
-   
+    /* Adiciona um espaçamento interno ao cartão de informação */
+    padding: 20px;
+    
 }
 
