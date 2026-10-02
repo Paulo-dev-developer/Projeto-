@@ -90,26 +90,4 @@ body::after{
     gap: 20px;
 }
 
-.info-card{
-    /* Estiliza cada cartão de informação */
-    background: rgba(255, 255, 255, 0.04);
-    border: 1px solid rgba(255, 255, 255, 0.12);
-
-    /*arredondamento dos cantos do cartão de informação */
-    border-radius: 18px;
-    /* Adiciona um espaçamento interno ao cartão de informação */
-    padding: 20px;
-    /*alinha o texto à esquerda dentro do cartão de informação */
-    text-align: left;
-    /*adciona uma transição suave ao passar o mouse sobre o cartão de informação */
-    transition: 0.03s ease;
-
-    /*acabei*/
-}
-
-.info-card:hover{
-    /* Efeito ao passar o mouse no cartão de informação */
-    transform: translateY(-5px);
-    border-color: rgb(92, 1, 153) ;
-}
 
